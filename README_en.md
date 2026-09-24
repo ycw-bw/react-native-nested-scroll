@@ -297,7 +297,6 @@ NestScrollProps
 | Name | Parameter Type | Default Value | Required | Platform | OpenHarmony Platform Support | Description |
 | --- | --- | --- | --- | --- | --- | --- |
 | bounces | boolean | false | no | iOS | Yes | Sets whether NestedScrollView is bouncy. Once set to true, the innermost scrollable view loses its bounce effect. |
-| onScroll | function | None | no | Android, iOS | Yes | Scroll callback function. |
 
 NestedScrollViewHeaderProps
 

@@ -297,7 +297,6 @@ NestScrollProps
 | 名称 | 参数类型 | 默认值 | 必填 | 平台 | OpenHarmony平台支持 | 描述 |
 | --- | --- | --- | --- | --- | --- | --- |
 | bounces | boolean | false | no | iOS | Yes | 设置 NestedScrollView 是否有弹性。一旦设置为 true，最内层可滚动视图将失去弹性。 |
-| onScroll | function | None | no | Android、iOS | Yes | 滚动回调函数。 |
 
 NestedScrollViewHeaderProps
 
